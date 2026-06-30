@@ -1,7 +1,7 @@
 import "./globals.css";
 
 export const metadata = {
-  title: "SimpleGhar Telugu",
+  title: "SR Smart Finds",
   description: "Simplifying all your Home Needs — buying guides, reviews, and deals.",
 };
 

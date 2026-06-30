@@ -59,19 +59,10 @@ export default function Page() {
           src="https://api.dicebear.com/7.x/shapes/svg?seed=simpleghar"
           alt="Profile"
         />
-        <h1>SimpleGhar Telugu</h1>
+        <h1>SR Smart Finds</h1>
         <p>Simplifying all your home needs</p>
       </header>
 
-      <a
-        className="featured"
-        href="https://simpleghar.com/price-tracker"
-        target="_blank"
-        rel="noopener noreferrer"
-      >
-        <span className="eyebrow">New tool</span>
-        Track Amazon prices &amp; save on your purchase →
-      </a>
 
       {error && (
         <div className="state error">
