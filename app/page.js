@@ -162,12 +162,10 @@ export default function Page() {
           Website
         </a>
       </div>
-
-      <p className="footer-note">
+      {/* <p className="footer-note">
         The products listed on this page contain affiliate links. When you
-        purchase any product, SimpleGhar may earn a commission. Questions?
-        Write to telugu@simpleghar.com
-      </p>
+        purchase any product, SR SmartFinds may earn a small commission.
+      </p> */}
     </main>
   );
 }
