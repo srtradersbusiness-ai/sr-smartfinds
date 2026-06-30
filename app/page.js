@@ -145,20 +145,20 @@ export default function Page() {
 
       <div className="social-row">
         <a
-          href="https://www.instagram.com/simpleghartelugu/"
+          href="https://www.instagram.com/sr_smartfinds/"
           target="_blank"
           rel="noopener noreferrer"
         >
           Instagram
         </a>
         <a
-          href="https://www.youtube.com/@SimpleGharTelugu/"
+          href=""
           target="_blank"
           rel="noopener noreferrer"
         >
           YouTube
         </a>
-        <a href="https://simpleghar.com" target="_blank" rel="noopener noreferrer">
+        <a href="https://sr-smartfinds.com" target="_blank" rel="noopener noreferrer">
           Website
         </a>
       </div>
